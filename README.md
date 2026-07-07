@@ -7,7 +7,7 @@ Registration; general review and discussion of QNetwork topics and concepts:
 - QKD protocols
 
 **29 June - 6 July** <br>
-- CHSH bottleneck routing algorithm simulation code: simulating 10, 15, 20 and 50 nodes and analysing the results.
+- CHSH bottleneck routing algorithm simulation code: simulating on meshes of 10, 15, 20 and 50 nodes and analysing the results.
 - Making a short literature review on routing in quantum netwoks.
 
 ---
