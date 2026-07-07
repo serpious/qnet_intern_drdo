@@ -7,7 +7,7 @@ Registration and General Literature Review of QNetwork Topics
 Modifying the centralized routing simulation code to 10, 15, 20 and 50 nodes and analysing the results.
 
 **1 July - 6 July** <br>
-Making a short literature Review on Quantum Network Routing.
+Making a short literature review on routing in quantum netwoks.
 
 ---
 ### Others:
