@@ -1,13 +1,11 @@
 # QNetwork Internship
 
 **22 June - 28 June** <br>
-Registration and General Literature Review of QNetwork Topics
+Registration; general review and discussion of QNetwork topics and concepts.
 
-**29 June - 2 July** <br>
-Modifying the centralized routing simulation code to 10, 15, 20 and 50 nodes and analysing the results.
-
-**1 July - 6 July** <br>
-Making a short literature review on routing in quantum netwoks.
+**29 June - 6 July** <br>
+- CHSH bottleneck routing algorithm simulation code: simulating 10, 15, 20 and 50 nodes and analysing the results.
+- Making a short literature review on routing in quantum netwoks.
 
 ---
 ### Others:
