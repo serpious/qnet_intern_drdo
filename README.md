@@ -12,4 +12,4 @@ Registration; general review and discussion of QNetwork topics and concepts:
 
 ---
 ### Others:
-Analysing MIT iQuHack's distillation solutions (in progress)
+Analysing MIT iQuHack's distillation challenge and its solutions (in progress)
