@@ -4,6 +4,10 @@
 Registration and General Literature Review of QNetwork Topics
 
 **29 June - 2 July**
-1. Modifying the centralized routing simulation code to 10, 15, 20 and 50 nodes.
-2. Literature Review on Routing Algorithms
-3. Analysing MIT iQuHack's distillation solutions (Work in Progress)
+Modifying the centralized routing simulation code to 10, 15, 20 and 50 nodes and analysing the results.
+
+**1 July - 6 July**
+Making a short literature Review on Quantum Network Routing.
+
+#### Others:
+Analysing MIT iQuHack's distillation solutions (in progress)
