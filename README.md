@@ -1,4 +1,5 @@
-# QNetwork Internship
+# QNetwork Internship at SAG, DRDO
+This file details my work done and topics studied during internship, updated regularly during the intern period.
 
 **22 June - 28 June** <br>
 General review and discussion of QNetwork topics and concepts, including mathematical formalism:
