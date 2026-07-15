@@ -1,6 +1,6 @@
 # Installing and running netsquid
 ## A) Local environment.
-Takes some time to set up, but then can be run with just two steps. Without internet being required. 
+Takes some time to set up, but after setup can be run with just two steps without internet being required. 
 ### Making environment in Ubuntu:
 1. Open the Ubuntu terminal
 2. Use ```python -m venv .netsquid_env``` to make an env for netsquid
