@@ -5,8 +5,8 @@ Takes some time to set up, but then can be run with just two steps. Without inte
 1. Open the Ubuntu terminal
 2. Use ```python -m venv .netsquid_env``` to make an env for netsquid
 > In case venv is absent, please use ```sudo apt install python3-venv``` to install.
-4. Activate the environment using ```source .netsquid_env/bin/activate```. This will show the env in place of 'base'. For exameple, here for an exmaple env named .test:
-![test env](image-2.png)
+4. Activate the environment using ```source .netsquid_env/bin/activate```. This will show the env in place of 'base'. For exameple, here for an exmaple env named .test:<br>
+![test env](image-2.png)<br>
 The environment can be deactivated using ```deactivate```.
 5. Now, install Jupyter for this env using ```pip install notebook```
 6. Run the notebook in your browser using ```jupyter notebook --no-browser```
