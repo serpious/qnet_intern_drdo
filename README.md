@@ -1,4 +1,4 @@
-# QNetwork Internship at SAG, DRDO
+# QNetwork Internship at SAG, DRDO [22 June - 31 July]
 This file briefly summarizes my work done and topics studied during internship, updated regularly during the intern period.
 
 **22 June - 28 June** <br>
