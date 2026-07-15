@@ -23,7 +23,7 @@ This link needs username and password, in case you have yours please put it in t
 Else use mine which I sent in the email in same installation format!
 Now netsquid is installed!
 ## B) Google Colab:
-* I uploaded my notebook on colab and put the same installation link on top cell.
+* I uploaded my notebook on colab and put the same netsquid installation link on top cell.
 * Please execute the cell then restart kernel by going to Runtime->Restart Session.
 * Now the code must work!
 
