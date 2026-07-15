@@ -1,6 +1,6 @@
 # QNetwork Internship at SAG, DRDO [22 June - 31 July]
 This file briefly summarizes my work done and topics studied during internship, updated regularly during the intern period. <br>
-#### _Last updated: 15 July 2026_
+_Last updated: 15 July 2026_
 
 **22 June - 28 June** <br>
 General review and discussion of QNetwork topics and concepts, including mathematical formalism:
