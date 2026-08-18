@@ -18,5 +18,6 @@ General review and discussion of QNetwork topics and concepts, including mathema
 - Dynamic Quantum Mesh Routing: A 15-node Quantum Network Mesh, where each link has some dynamic physical noise. There are two layers:
   - Physical Layer: Simulates sending entangled qubits over noisy channel and measure S.
   - Control Layer: Uses S-values to decide best path using the CHSH bottleneck algorithm, and as the edges evolve over time, sweep changed edges and makes decision whether to switch to a new path/drop-off completely if all fall below S = 2.0. <br>
+  
 The quantum part is the entangled quantum links and how their weights are measured, where is the routing decision algorithm is classical.<br>
 *Code for final algorithm will be added soon....*
