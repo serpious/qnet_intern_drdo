@@ -9,11 +9,13 @@ General review and discussion of QNetwork topics and concepts, including mathema
 - E91 protocol; quantum teleportation
 - quantum network topology
 
-**29 June - 7 July** <br>
-- Centralized CHSH bottleneck routing algorithm code: simulating on meshes of 10, 15, 20 and 50 nodes and analysing the results.
+**29 June - 15 July** <br>
+- Centralized CHSH based widest-bottleneck routing algorithm code: simulating on meshes of 10, 15, 20 and 50 nodes and analysing the results.
 - Making a short literature review on routing in quantum netwoks: routing protocols, path selection policies, metrics.
 - Analysis of 50-node mesh design in CHSH algo; summarizing why purification-based routing is necessary in practical use.
 
-**8 July - Now** <br>
-- Learning about various purification decision protocols and fidelity aware routing; simulating and implementing available code wherever available.
-- ONGOING (working on purification based algorithm with modified mesh)
+**15 July - 31 July** <br>
+- Dynamic Quantum Mesh Routing: A 15-node Quantum Network Mesh, where each link has some dynamic physical noise. There are two layers:
+  - Physical Layer: Simulates sending entangled qubits over noisy channel and measure S.
+  - Control Layer: Uses S-values to decide best path using the CHSH bottleneck algorithm, and as the edges evolve over time, sweep changed edges and makes decision whether to switch to a new path/drop-off completely if all fall below S = 2.0.
+The quantum part is the entangled quantum links and how their weights are measured, where is the routing decision algorithm is classical.
